@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.3276523c.css",
-    "main.js": "/static/js/main.9302dc97.js",
+    "main.css": "/static/css/main.e2727be3.css",
+    "main.js": "/static/js/main.8c3e8d2e.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/bossdevelopment navbar.png": "/static/media/bossdevelopment navbar.c8ba48a348a9b8f848e5.png",
     "static/media/project1.png": "/static/media/project1.c5e45558a3ca49f8321b.png",
+    "static/media/indegogohomepage.png": "/static/media/indegogohomepage.db1f70cf6fb39d38d101.png",
+    "static/media/jcrew1.png": "/static/media/jcrew1.4d036a96c17aef9ba52b.png",
     "static/media/project2.png": "/static/media/project2.def68d4ef4c49546e814.png",
+    "static/media/indegogonavbar.png": "/static/media/indegogonavbar.f8734faecae1cab3e841.png",
+    "static/media/skin1.png": "/static/media/skin1.35366a4c48a930ba6865.png",
+    "static/media/shivamr.pdf": "/static/media/shivamr.fc724c6fb6081f9e0b6f.pdf",
     "static/media/image3.png": "/static/media/image3.fac49bdd9a30bc1d3c95.png",
-    "static/media/Shivamgupta.pdf": "/static/media/Shivamgupta.34af94ae5ec2afb269ac.pdf",
+    "static/media/bosdevelopmentpayment.png": "/static/media/bosdevelopmentpayment.76c13ae04f91f285a994.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.3276523c.css.map": "/static/css/main.3276523c.css.map",
-    "main.9302dc97.js.map": "/static/js/main.9302dc97.js.map",
+    "main.e2727be3.css.map": "/static/css/main.e2727be3.css.map",
+    "main.8c3e8d2e.js.map": "/static/js/main.8c3e8d2e.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3276523c.css",
-    "static/js/main.9302dc97.js"
+    "static/css/main.e2727be3.css",
+    "static/js/main.8c3e8d2e.js"
   ]
 }
